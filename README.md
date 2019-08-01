@@ -1,2 +1,2 @@
 # SampleRepo
-Sample
+I fixed the mayor, president!
